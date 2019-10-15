@@ -3,3 +3,5 @@ Novi tekst iz master grane
 =======
 Neki prvi tekst
 >>>>>>> novifeature
+
+Dodavanje novog teksta za github
